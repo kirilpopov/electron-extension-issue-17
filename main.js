@@ -21,7 +21,7 @@ function createWindow() {
 
 // Some APIs can only be used after this event occurs.
 const extensions = new ExtensibleSession(({
-    preloadPath: resolve(__dirname, 'preload.js'),
+    preloadPath: resolve(__dirname, 'preload-script.js'),
 }));
 
 app.whenReady().then(async () => {
