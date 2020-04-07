@@ -1,0 +1,17 @@
+{
+  "name": "electron-extension-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kiril Popov",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.12"
+  },
+  "dependencies": {
+    "electron-extensions": "^6.0.4"
+  }
+}
