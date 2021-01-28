@@ -9,7 +9,7 @@
   "author": "Kiril Popov",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.12"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "electron-extensions": "^6.0.4"
